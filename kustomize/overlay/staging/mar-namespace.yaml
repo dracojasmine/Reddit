@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mar
+  labels:
+    environment-id: env_9462ed31-f594-4606-b928-096574171426
+    project-id: project_90ed5aaf-ca4c-427a-b5cb-ee80262c7c9b
+    project-name: Reddit
+    environment-name: staging
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900

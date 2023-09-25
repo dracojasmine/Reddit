@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bar
+  labels:
+    environment-id: env_d4992ec0-5e18-4ee7-97c6-01ffc0836343
+    project-id: project_90ed5aaf-ca4c-427a-b5cb-ee80262c7c9b
+    project-name: Reddit
+    environment-name: prod
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
